@@ -5,10 +5,11 @@ const Hello = () => {
     <>
     <h1>this is heading    </h1>
                                   <div>Hello</div>
-      <p>this is a hello component.        </p>
+      <p>this is a hello component.       
+         </p>
       
 
-      
+
     </>
   );
 };
